@@ -4,12 +4,12 @@ Developed a responsive clone of the Spotify landing page using HTML, CSS, and Ja
 ## Deployed Link
 
 - Access the live application here:  
-  [Spotify_clone]([https://anurag-videocall-connectcast.netlify.app/](https://anurag-spotify-clone.netlify.app/))
+  [Spotify_clone](https://anurag-spotify-clone.netlify.app/)
 
 ## Project Overview
 
 **Technologies Used**:  
-- **Frontend**: HTML,Css,JavaScript
+- **Frontend**: HTML,CSS,JavaScript
 
 ## Installation Instructions
 
